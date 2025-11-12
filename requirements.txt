@@ -1,0 +1,14 @@
+# Python依赖包列表
+
+# 数据库相关
+psycopg2-binary==2.9.9
+
+# HTTP请求
+requests==2.31.0
+
+# 时间处理
+python-dateutil==2.8.2
+
+# 数据处理(可选,如需更多功能)
+# pandas==2.1.4
+# numpy==1.26.2
